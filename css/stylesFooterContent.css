@@ -1,0 +1,15 @@
+footer{
+    padding: 20px;
+    border-style: solid;
+    border-color: #F20574;
+    border-radius: 7px;
+    width: 1050px;
+    height: 170px;
+}
+
+#footerImage{
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    border-radius: 28px;
+}
