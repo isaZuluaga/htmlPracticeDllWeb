@@ -1,9 +1,12 @@
 footer{
+   position: relative;
+   top: -490px;
+  margin: 50px;
     padding: 20px;
     border-style: solid;
     border-color: #F20574;
     border-radius: 7px;
-    width: 1050px;
+    width: 1020px;
     height: 170px;
 }
 
@@ -12,4 +15,12 @@ footer{
     height: 150px;
     padding: 10px;
     border-radius: 28px;
+}
+#footerText{
+    position: relative;
+   top: -120px;
+   left: 350px;
+    font-weight: 200;
+    font-size: x-large;
+    font-style: italic;
 }
