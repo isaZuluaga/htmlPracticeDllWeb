@@ -1,8 +1,39 @@
 #headerContent{
-    width: 700px;
-    height: 160px;
+    width: 1050px;
+    height: 170px;
     margin: 50px;
     border-style: solid;
     border-color: #446D03;
     border-radius: 7px;
 }
+
+#logoImage{
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    border-radius: 28px;
+}
+
+#optionsList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+  }
+ .list{
+   float: left;
+ }
+
+ li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
