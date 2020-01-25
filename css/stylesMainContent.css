@@ -1,0 +1,59 @@
+#jsPyContent {
+    width: 700px;
+    height: 450px;
+    margin: 50px;
+    border-style: solid;
+    border-color: orchid;
+    border-radius: 7px;
+    font-style: italic;
+}
+
+#jsSection{
+    margin: 20px;
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(132, 70, 233);
+    border-radius: 7px;
+    
+}
+#pythonSection{
+    margin: 20px;
+    padding: 10px;
+    border-style: solid;
+    border-color: rgb(74, 226, 74);
+    border-radius: 7px;
+}
+
+.buttons{
+    width: 200px;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#socialList{
+    list-style: none;
+}
+
+#socialMediaContent{
+    position: relative; 
+    
+    right: -800px;
+    top: -500px;
+
+    width: 300px;
+    height: 444px;
+    border-style: solid;
+    border-color: rgb(241, 128, 52);
+    border-radius: 7px;
+    
+    
+}
+.buttons{
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+.buttons:hover {
+    background-color: #FF9C00; 
+    color: white;
+  }
